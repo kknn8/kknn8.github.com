@@ -4,7 +4,7 @@ show_meta: false
 title: "여러가지 방법들을 소개해드립니다."
 subheadline: "Introduce serveral things for surviving!"
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
+   image_fullwidth: "etc.jpg"
 permalink: "/etc/"
 ---
 <ul>
