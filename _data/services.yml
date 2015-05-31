@@ -5,9 +5,9 @@
   class: "services-contact"
   title: "Contact"
 
-- name: "koreatech"
+- name: "KoreaTech"
   url: "http://koreatech.ac.kr"
-  class: "koreatech-site"
+  class: "KoreaTech-site"
   title: "Enter the koreatech-site"
 
 - name: "OurGithub"
