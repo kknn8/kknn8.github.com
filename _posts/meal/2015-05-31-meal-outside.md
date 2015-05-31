@@ -12,7 +12,7 @@ tags:
 image:
    thumb: ""
 header:
-    image_fullwidth: "meal_outside.jpg"
+    image_fullwidth: "meal_outside_2.jpg"
     caption: you can find in hantalk
     caption_url: http://hantalk.kr/
 ---
