@@ -15,7 +15,7 @@ widget-1:
     image: 
 widget-2:
     title: "대학생의 하루"
-    url: 'https://www.youtube.com/watch?v=bI-PVhO_bjU'
+    url: 'http://phlow.github.io/feeling-responsive/info/'
     text: '<em>대학생의 하루</em> 대학생들의 바쁜 하루를 보여주는 동영상입니다. 자기 자신도 어떻게 살아가는 지 모를 만큼 바쁜 한기대 학생들이 충분히 공감할 수 있는 영상이라고 생각합니다. 이런 공대생들을 위해 **여러 가지 팁**을 드릴려고 합니다.'
     video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'
 widget-3:
@@ -28,7 +28,7 @@ widget-3:
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="854" height="510" src="https://www.youtube.com/embed/bI-PVhO_bjU" frameborder="0" allowfullscreen></iframe>  
+    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>  
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
