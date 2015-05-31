@@ -2,7 +2,12 @@
 layout: post
 title: "2015-05-31 shuttle"
 date: 2015-05-31
-categories: traffic
+categories: 
+    -traffic
+tag:
+    -traffic
+    -교통
+    -셔틀
 ---
 
 ####셔틀(천안, 청주, 서울, 대전)     

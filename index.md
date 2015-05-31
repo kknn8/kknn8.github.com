@@ -9,9 +9,9 @@ title: "Well-Surviving In Koreatech – Well-Eat, Well-Play, Well-Study"
 header:
     image_fullwidth: "main4.jpg"
 widget-1:
-    title: "Blog & Portfolio"
-    url: 'http://phlow.github.io/feeling-responsive/blog/'
-    text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+    title: "What this blog is for?"
+    url: 'http://github.com/kknn8/kknn8.github.com/'
+    text: 'This blog is for you who has been a unviersity student in koreatech. It informs you useful information that helps you to live better than before in koreatech.'
     image: unsplash_9-302x182.jpg
 widget-2:
     title: "Why use this theme?"
