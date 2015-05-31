@@ -7,12 +7,13 @@ permalink: "/info/"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
--**사용한 툴(Tool)**
-   * Oracle Virtual Box
-   * Ubuntu(Linux)
-   * Jekyll - ruby_language
-   * Github.com - for saving ours sources
-   * Feeling Responsive Theme made by Phlow 
+## 사용한 툴(Tool)
+
+ 1. Oracle Virtual Box
+ 1. Ubuntu(Linux)
+ 1. Jekyll - ruby_language
+ 1. Github.com - for saving ours sources
+ 1. Feeling Responsive Theme made by Phlow 
 
 
 ## 팀원
@@ -24,6 +25,10 @@ header:
   
 * **팀원 : 김동우**
   
+  우분투를 깔아서 실행시키는 과정부터 알 수 없는 오류때문에 실행이 안되었습니다.
+  처음이 잘 안되니 계속 진행이 더디어져서 실습조차 따라갈 수 없었습니다.
+  다행이 팀장의 적극적인 진행과 조원 친구들의 도움으로 블로그를 만들 수 있었습니다.
+ 
 * **팀원 : 김민지**
  
   블로그의 주제부터 블로그의 사이트를 제작하는 것까지 모두 쉽지 않은 것 투성이었다. 
