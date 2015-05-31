@@ -5,19 +5,19 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-title: "Feeling Responsive – A Jekyll Theme Based On Foundation"
+title: "Well-Surviving In Koreatech – Well-Eat, Well-Play, Well-Study"
 header:
-   image_fullwidth: "header_unsplash_12.jpg"
+    image_fullwidth: "main4.jpg"
 widget-1:
-    title: "Blog & Portfolio"
-    url: 'http://phlow.github.io/feeling-responsive/blog/'
-    text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
-    image: unsplash_9-302x182.jpg
+    title: "What this blog is for?"
+    url: 'http://github.com/kknn8/kknn8.github.com/'
+    text: 'This blog is for you who has been a unviersity student in koreatech. It informs you useful information that helps you to live better than before in koreatech.'
+    image: main_koreatech.jpg
 widget-2:
-    title: "Why use this theme?"
-    url: 'http://phlow.github.io/feeling-responsive/info/'
-    text: '<em>Feeling Responsive</em> is heavily customizable.<br>1. Language-Support :)<br>2. Optimized for speed and it&#39;s responsive.<br>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br>4. Seven different Headers.<br>5. Customizable navigation, footer,...'
-    video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'
+    title: "A day of the student of the university?"
+    url: 'https://www.youtube.com/watch?v=bI-PVhO_bjU'
+    text: 'This makes you sympathy about university student because of the reality in the video. The video shows you the hard-living where is the student who woke up early, studied hard, exercised etc. Th$
+    video: '<a href="#" data-reveal-id="videoModal"><img src="http://kknn8.github.io/images/main_video.jpg" width="302" height="182" alt=""></a>'
 widget-3:
     title: "Download Theme"
     url: 'https://github.com/Phlow/feeling-responsive'
@@ -28,7 +28,7 @@ widget-3:
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
+    <iframe width="854" height="510" src="https://www.youtube.com/embed/bI-PVhO_bjU" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
