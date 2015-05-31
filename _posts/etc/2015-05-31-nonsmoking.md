@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "2015-05-31-nonsmoking.md"
-subheadline:  "nonsmoking"
+title:  "2015-05-31-nonsmoke.md"
+subheadline:  "This project makes you healthy!"
 teaser: ""
 categories:
     - etc

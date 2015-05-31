@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "2015-05-31-bodychange.md"
-subheadline:  "bodychange"
+title:  "2015-05-31-body.md"
+subheadline:  "body change project will make you handsome or beautiful!"
 teaser: ""
 categories:
     - etc
