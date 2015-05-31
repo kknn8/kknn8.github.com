@@ -19,9 +19,9 @@ widget-2:
     text: 'This makes you sympathy about university student because of the reality in the video. The video shows you the hard-living where is the student who woke up early, studied hard, exercised etc. The sympathy maybe grows up in your mind.'
     video: '<a href="#" data-reveal-id="videoModal"><img src="http://kknn8.github.io/images/main_video.jpg" width="302" height="182" alt=""></a>'
 widget-3:
-    title: "This Theme made by Phlow"
-    url: 'https://github.com/Phlow/feeling-responsive'
-    text: 'This blog uses the feeling-responsive made by Phlow. Thus, we can make the beautiful blog anyway! We thanks to the contributor who are Phlow. If you want to make the blog, use this theme!'
+    title: "Our Koreatech"
+    url: 'https://koreatech.com'
+    text: 'The koreatech gives us good environment for studying or living as university student. If you want to play more divers 
     image: github-303x182.jpg
 ---
 
