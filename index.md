@@ -20,7 +20,7 @@ widget-2:
     video: '<a href="#" data-reveal-id="videoModal"><img src="http://kknn8.github.io/images/main_video.jpg" width="302" height="182" alt=""></a>'
 widget-3:
     title: "Our Koreatech"
-    url: 'https://koreatech.com'
+    url: 'http://koreatech.ac.kr'
     text: 'The koreatech gives us good environment for studying or living as university student. The resource of playing is really poor. However, the campus gives a lot of chance to us. Thus, let's find those!' 
     image: github-303x182.jpg
 ---
