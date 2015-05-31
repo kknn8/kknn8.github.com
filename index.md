@@ -21,7 +21,7 @@ widget-2:
 widget-3:
     title: "Our Koreatech"
     url: 'https://koreatech.com'
-    text: 'The koreatech gives us good environment for studying or living as university student. If you want to play more divers 
+    text: 'The koreatech gives us good environment for studying or living as university student. The resource of playing is really poor. However, the campus gives a lot of chance to us. Thus, let's find those!' 
     image: github-303x182.jpg
 ---
 
