@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: "학교에서 누릴 수 있는 문화생활을 알려드립니다."
+title: "학교에서 누릴 수 있는 문화생활!"
 subheadline: "You can find the entertainment in koreatech."
 header:
    image_fullwidth: "entertainment.jpg"
